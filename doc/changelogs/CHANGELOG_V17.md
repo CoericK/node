@@ -268,7 +268,7 @@ Contributed by Antoine du Hamel - https://github.com/nodejs/node/pull/37947
 * [[`350a95b89f`](https://github.com/nodejs/node/commit/350a95b89f)] - **tools**: update lint-md dependencies (Rich Trott) [#40404](https://github.com/nodejs/node/pull/40404)
 * [[`012152d7d6`](https://github.com/nodejs/node/commit/012152d7d6)] - **tools**: udpate @babel/eslint-parser (Rich Trott) [#40394](https://github.com/nodejs/node/pull/40394)
 * [[`43c780e741`](https://github.com/nodejs/node/commit/43c780e741)] - **tools**: remove @babel/plugin-syntax-import-assertions (Rich Trott) [#40394](https://github.com/nodejs/node/pull/40394)
-* [[`b39db95737`](https://github.com/nodejs/node/commit/b39db95737)] - **tools**: remove @bable/plugin-syntax-class-properties (Rich Trott) [#40394](https://github.com/nodejs/node/pull/40394)
+* [[`b39db95737`](https://github.com/nodejs/node/commit/b39db95737)] - **tools**: remove @babel/plugin-syntax-class-properties (Rich Trott) [#40394](https://github.com/nodejs/node/pull/40394)
 * [[`a6fd39f44f`](https://github.com/nodejs/node/commit/a6fd39f44f)] - **tools**: remove @babel/plugin-syntax-top-level-await (Rich Trott) [#40394](https://github.com/nodejs/node/pull/40394)
 * [[`8ca76eba73`](https://github.com/nodejs/node/commit/8ca76eba73)] - **tools**: update ESLint to 8.0.0 (Rich Trott) [#40394](https://github.com/nodejs/node/pull/40394)
 * [[`dd8e219d71`](https://github.com/nodejs/node/commit/dd8e219d71)] - **tools**: prepare ESLint rules for 8.0.0 requirements (Rich Trott) [#40394](https://github.com/nodejs/node/pull/40394)
